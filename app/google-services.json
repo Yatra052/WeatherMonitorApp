@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "812188741222",
+    "project_id": "weathermonitorapp",
+    "storage_bucket": "weathermonitorapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:812188741222:android:2c1815f2b09cdfa70a47a7",
+        "android_client_info": {
+          "package_name": "com.example.weathermonitorapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClIK5jxtJn-dpCdUdW0SeR30xaVg8XrJc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

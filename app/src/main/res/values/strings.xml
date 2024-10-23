@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">WeatherMonitorApp</string>
+    <string name="apikey">9dede6ef2cb09858115b1af69e893d43</string>
+    <string name="weather_monitor_app">Weather Monitor App</string>
+</resources>
